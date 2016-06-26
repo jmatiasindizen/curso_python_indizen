@@ -1,2 +1,8 @@
-# curso_python_indizen
-Curso de Introducción a Python
+# Curso de Introducción a Python
+
+## Segunda sesión
+
+* Numpy
+* Pandas
+* Matplotlib
+* Bokeh
